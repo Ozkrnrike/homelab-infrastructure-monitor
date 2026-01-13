@@ -1,0 +1,30 @@
+# HomeLab Monitor Agent Configuration
+
+server:
+  url: http://localhost:8000/api/v1
+  api_key: ${AGENT_API_KEY}  # Set via environment variable
+
+collection:
+  interval_seconds: 30
+  include_docker: true
+  disk_mounts:
+    - /
+    - /home
+    # - /var  # Add more mount points as needed
+
+health_checks:
+  - name: nginx
+    type: http
+    url: http://localhost:80
+    expected_status: 200
+
+  - name: postgres
+    type: tcp
+    host: localhost
+    port: 5432
+
+  # Add more health checks as needed
+  # - name: redis
+  #   type: tcp
+  #   host: localhost
+  #   port: 6379

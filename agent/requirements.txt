@@ -1,0 +1,16 @@
+# HomeLab Monitor Agent Dependencies
+
+# System metrics collection
+psutil>=5.9.0
+
+# HTTP requests
+requests>=2.31.0
+
+# Configuration
+PyYAML>=6.0
+
+# Validation
+pydantic>=2.5.0
+
+# Optional: Docker monitoring
+docker>=7.0.0
